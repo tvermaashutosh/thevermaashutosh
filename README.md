@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh Verma, a student at IIT BHU
-- 👀 I’m interested in Competitive Coding
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate in Competitive Programming
 - 📫 Reach me at ashutosh.verma.mec21@iitbhu.ac.in
